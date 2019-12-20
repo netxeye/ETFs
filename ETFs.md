@@ -1,5 +1,5 @@
-#Consumer
----
+# Consumer
+----
 
 ## XLP
 ----
@@ -40,8 +40,8 @@
 |Net Asset Value|$158.98|
 
 
-#China
----
+# China
+----
 
 ## MCHI
 ----
@@ -120,8 +120,8 @@
 |Net Asset Value|$48.60|
 
 
-#HealthCare
----
+# HealthCare
+----
 
 ## VHT
 ----
@@ -162,8 +162,8 @@
 |Net Asset Value|$101.98|
 
 
-#SP500
----
+# SP500
+----
 
 ## SPHD
 ----
@@ -223,8 +223,8 @@
 |Net Asset Value|$319.50|
 
 
-#Utilities
----
+# Utilities
+----
 
 ## XLU
 ----
