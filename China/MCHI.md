@@ -17,5 +17,9 @@
 |Distribution Yield|1.47%|
 |Net Asset Value|$63.12|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|3|
 |Cost|$189.36|

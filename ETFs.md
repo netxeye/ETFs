@@ -8,6 +8,7 @@ Mike's Investment
 * [HealthCare](#HealthCare)
 * [SP500](#SP500)
 * [Utilities](#Utilities)
+* [Cost](#Cost)
 # Consumer
 ----
 
@@ -30,6 +31,10 @@ Mike's Investment
 |Distribution Yield|2.50%|
 |Net Asset Value|$63.18|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|14|
 |Cost|$884.52|
 ## VDC
@@ -74,6 +79,10 @@ Mike's Investment
 |Distribution Yield|1.47%|
 |Net Asset Value|$63.12|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|3|
 |Cost|$189.36|
 ## ASHR
@@ -95,6 +104,10 @@ Mike's Investment
 |Distribution Yield|1.00%|
 |Net Asset Value|$28.88|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|6|
 |Cost|$173.28|
 ## FXI
@@ -177,6 +190,10 @@ Mike's Investment
 |Distribution Yield|1.47%|
 |Net Asset Value|$102.38|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|2|
 |Cost|$204.76|
 
@@ -202,6 +219,10 @@ Mike's Investment
 |Distribution Yield|4.08%|
 |Net Asset Value|$43.76|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|3|
 |Cost|$131.28|
 ## IVV
@@ -223,6 +244,10 @@ Mike's Investment
 |Distribution Yield|2.11%|
 |Net Asset Value|$320.77|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|1|
 |Cost|$320.77|
 ## SPY
@@ -267,6 +292,10 @@ Mike's Investment
 |Distribution Yield|2.89%|
 |Net Asset Value|$64.62|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
 |Amount|8|
 |Cost|$516.96|
 ## VPU
