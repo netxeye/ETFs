@@ -364,8 +364,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|3|
-|Cost|$330.90|
+|Amount|4|
+|Cost|$441.20|
 ## TLT
 ----
 ### RATING
@@ -396,5 +396,5 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2534.87|
-|Diff|$122.13|
+|Total|$2645.17|
+|Diff|$11.83|
