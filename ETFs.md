@@ -9,7 +9,7 @@ Mike's Investment
 * [SP500](#SP500)
 * [Utilities](#Utilities)
 * [Bond](#Bond)
-* [Cost](#COST TOTAL)
+* [Sumary](#Sumary)
 # Consumer
 ----
 
@@ -32,7 +32,7 @@ Mike's Investment
 |Distribution Yield|2.50%|
 |Net Asset Value|$63.18|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -80,7 +80,7 @@ Mike's Investment
 |Distribution Yield|1.47%|
 |Net Asset Value|$63.12|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -105,7 +105,7 @@ Mike's Investment
 |Distribution Yield|1.00%|
 |Net Asset Value|$28.88|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -191,7 +191,7 @@ Mike's Investment
 |Distribution Yield|1.47%|
 |Net Asset Value|$102.38|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -220,7 +220,7 @@ Mike's Investment
 |Distribution Yield|4.08%|
 |Net Asset Value|$43.76|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -245,7 +245,7 @@ Mike's Investment
 |Distribution Yield|2.11%|
 |Net Asset Value|$320.77|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -293,7 +293,7 @@ Mike's Investment
 |Distribution Yield|2.89%|
 |Net Asset Value|$64.62|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -360,7 +360,7 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$110.30|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
@@ -385,14 +385,14 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$136.52|
 
-### COST TOTAL
+### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|2|
 |Cost|$273.04|
 
-## Cost
+## Sumary
 
 |Name|Value|
 |:----:|:---:|
