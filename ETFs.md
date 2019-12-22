@@ -402,15 +402,9 @@ Mike's Investment
 
 |ETF|Percentage|
 |:----:|:---:|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
-|$s|0%|
+|Consumer|23%|
+|China|8%|
+|HealthCare|7%|
+|SP500|13%|
+|Utilities|19%|
+|Bond|27%|
