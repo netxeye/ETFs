@@ -249,8 +249,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|0|
-|Cost|$0.00|
+|Amount|1|
+|Cost|$320.77|
 ## SPY
 ----
 ### RATING
@@ -396,5 +396,5 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2214.10|
-|Diff|$442.90|
+|Total|$2534.87|
+|Diff|$122.13|
