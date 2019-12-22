@@ -402,9 +402,9 @@ Mike's Investment
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|23%|$631|
-|China|8%|$212|
-|HealthCare|7%|$204|
-|SP500|13%|$364|
-|Utilities|19%|$516|
-|Bond|27%|$714|
+|Consumer|23.00%|$631.80|
+|China|8.00%|$212.88|
+|HealthCare|7.00%|$204.76|
+|SP500|13.00%|$364.53|
+|Utilities|19.00%|$516.96|
+|Bond|27.00%|$714.24|
