@@ -249,8 +249,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|2|
-|Cost|$641.54|
+|Amount|1|
+|Cost|$320.77|
 ## SPY
 ----
 ### RATING
@@ -396,15 +396,15 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2962.50|
-|Diff|$-305.50|
+|Total|$2641.73|
+|Diff|$15.27|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|12.00%|$379.08|
-|China|7.00%|$212.88|
-|HealthCare|17.00%|$511.90|
-|SP500|23.00%|$685.30|
-|Utilities|17.00%|$516.96|
-|Bond|22.00%|$656.38|
+|Consumer|14.00%|$379.08|
+|China|8.00%|$212.88|
+|HealthCare|19.00%|$511.90|
+|SP500|13.00%|$364.53|
+|Utilities|19.00%|$516.96|
+|Bond|24.00%|$656.38|
