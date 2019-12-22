@@ -36,8 +36,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|10|
-|Cost|$631.80|
+|Amount|6|
+|Cost|$379.08|
 ## VDC
 ----
 ### RATING
@@ -195,8 +195,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|2|
-|Cost|$204.76|
+|Amount|5|
+|Cost|$511.90|
 
 # SP500
 ----
@@ -249,8 +249,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$320.77|
+|Amount|2|
+|Cost|$641.54|
 ## SPY
 ----
 ### RATING
@@ -364,8 +364,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|4|
-|Cost|$441.20|
+|Amount|1|
+|Cost|$110.30|
 ## TLT
 ----
 ### RATING
@@ -389,22 +389,22 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|2|
-|Cost|$273.04|
+|Amount|4|
+|Cost|$546.08|
 
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2645.17|
-|Diff|$11.83|
+|Total|$2962.50|
+|Diff|$-305.50|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|23.00%|$631.80|
-|China|8.00%|$212.88|
-|HealthCare|7.00%|$204.76|
-|SP500|13.00%|$364.53|
-|Utilities|19.00%|$516.96|
-|Bond|27.00%|$714.24|
+|Consumer|12.00%|$379.08|
+|China|7.00%|$212.88|
+|HealthCare|17.00%|$511.90|
+|SP500|23.00%|$685.30|
+|Utilities|17.00%|$516.96|
+|Bond|22.00%|$656.38|
