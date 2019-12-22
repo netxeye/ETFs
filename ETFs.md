@@ -8,6 +8,7 @@ Mike's Investment
 * [HealthCare](#HealthCare)
 * [SP500](#SP500)
 * [Utilities](#Utilities)
+* [Bond](#Bond)
 * [Cost](#Cost)
 # Consumer
 ----
@@ -35,8 +36,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|14|
-|Cost|$884.52|
+|Amount|10|
+|Cost|$631.80|
 ## VDC
 ----
 ### RATING
@@ -83,8 +84,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|3|
-|Cost|$189.36|
+|Amount|2|
+|Cost|$126.24|
 ## ASHR
 ----
 ### RATING
@@ -108,8 +109,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|6|
-|Cost|$173.28|
+|Amount|3|
+|Cost|$86.64|
 ## FXI
 ----
 ### RATING
@@ -223,8 +224,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|3|
-|Cost|$131.28|
+|Amount|1|
+|Cost|$43.76|
 ## IVV
 ----
 ### RATING
@@ -248,8 +249,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$320.77|
+|Amount|0|
+|Cost|$0.00|
 ## SPY
 ----
 ### RATING
@@ -337,9 +338,63 @@ Mike's Investment
 |Net Asset Value|$29.09|
 
 
+# Bond
+----
+
+## IEF
+----
+### RATING
+
+|Rating|Result|
+|:----:|:---:|
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|6.70 / 10|
+|Global Percentile Rank|81.02|
+
+### DATA
+
+|Data|Result|
+|:----:|:---:|
+|Expense Ratio|0.15%|
+|Price / Earnings Ratio||
+|Distribution Yield||
+|Net Asset Value|$110.30|
+
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|3|
+|Cost|$330.90|
+## TLT
+----
+### RATING
+
+|Rating|Result|
+|:----:|:---:|
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|6.70 / 10|
+|Global Percentile Rank|81.02|
+
+### DATA
+
+|Data|Result|
+|:----:|:---:|
+|Expense Ratio|0.15%|
+|Price / Earnings Ratio||
+|Distribution Yield||
+|Net Asset Value|$136.52|
+
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|2|
+|Cost|$273.04|
+
 ## Cost
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2420.93|
-|Diff|$236.07|
+|Total|$2214.10|
+|Diff|$442.90|
