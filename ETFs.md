@@ -100,6 +100,12 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$14.45|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|18|
+|Cost|$260.10|
 ## DGL
 ----
 ### RATING
@@ -451,23 +457,23 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|4|
-|Cost|$549.68|
+|Amount|2|
+|Cost|$274.84|
 
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2652.72|
-|Diff|$4.28|
+|Total|$2637.98|
+|Diff|$19.02|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
 |Consumer|14.00%|$379.44|
-|Gold|0.00%|$0.00|
+|Gold|9.00%|$260.10|
 |China|8.00%|$214.96|
 |HealthCare|19.00%|$514.75|
 |SP500|13.00%|$368.27|
 |Utilities|19.00%|$514.96|
-|Bond|24.00%|$660.34|
+|Bond|14.00%|$385.50|
