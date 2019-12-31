@@ -38,11 +38,7 @@ Mike's Investment
 |Data|Result|
 |:----:|:---:|
 |Amount|6|
-<<<<<<< HEAD
 |Cost|$379.44|
-=======
-|Cost|$379.08|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## VDC
 ----
 ### RATING
@@ -151,11 +147,7 @@ Mike's Investment
 |Data|Result|
 |:----:|:---:|
 |Amount|2|
-<<<<<<< HEAD
 |Cost|$128.38|
-=======
-|Cost|$126.24|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## ASHR
 ----
 ### RATING
@@ -180,11 +172,7 @@ Mike's Investment
 |Data|Result|
 |:----:|:---:|
 |Amount|3|
-<<<<<<< HEAD
 |Cost|$86.58|
-=======
-|Cost|$86.64|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## FXI
 ----
 ### RATING
@@ -270,11 +258,7 @@ Mike's Investment
 |Data|Result|
 |:----:|:---:|
 |Amount|5|
-<<<<<<< HEAD
 |Cost|$514.75|
-=======
-|Cost|$511.90|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 
 # SP500
 ----
@@ -303,11 +287,7 @@ Mike's Investment
 |Data|Result|
 |:----:|:---:|
 |Amount|1|
-<<<<<<< HEAD
 |Cost|$43.96|
-=======
-|Cost|$43.76|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## IVV
 ----
 ### RATING
@@ -474,79 +454,16 @@ Mike's Investment
 |Amount|4|
 |Cost|$549.68|
 
-<<<<<<< HEAD
-=======
-# Bond
-----
-
-## IEF
-----
-### RATING
-
-|Rating|Result|
-|:----:|:---:|
-|MSCI ESG Rating|A|
-|MSCI ESG Quality Score|6.70 / 10|
-|Global Percentile Rank|81.02|
-
-### DATA
-
-|Data|Result|
-|:----:|:---:|
-|Expense Ratio|0.15%|
-|Price / Earnings Ratio||
-|Distribution Yield||
-|Net Asset Value|$110.30|
-
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|1|
-|Cost|$110.30|
-## TLT
-----
-### RATING
-
-|Rating|Result|
-|:----:|:---:|
-|MSCI ESG Rating|A|
-|MSCI ESG Quality Score|6.70 / 10|
-|Global Percentile Rank|81.02|
-
-### DATA
-
-|Data|Result|
-|:----:|:---:|
-|Expense Ratio|0.15%|
-|Price / Earnings Ratio||
-|Distribution Yield||
-|Net Asset Value|$136.52|
-
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|4|
-|Cost|$546.08|
-
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-<<<<<<< HEAD
 |Total|$2652.72|
 |Diff|$4.28|
-=======
-|Total|$2641.73|
-|Diff|$15.27|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-<<<<<<< HEAD
 |Consumer|14.00%|$379.44|
 |Gold|0.00%|$0.00|
 |China|8.00%|$214.96|
@@ -554,11 +471,3 @@ Mike's Investment
 |SP500|13.00%|$368.27|
 |Utilities|19.00%|$514.96|
 |Bond|24.00%|$660.34|
-=======
-|Consumer|14.00%|$379.08|
-|China|8.00%|$212.88|
-|HealthCare|19.00%|$511.90|
-|SP500|13.00%|$364.53|
-|Utilities|19.00%|$516.96|
-|Bond|24.00%|$656.38|
->>>>>>> 3865f17547512f608c0cb658941b60d346caa795
