@@ -104,8 +104,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|18|
-|Cost|$260.10|
+|Amount|9|
+|Cost|$130.05|
 ## DGL
 ----
 ### RATING
@@ -263,8 +263,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|5|
-|Cost|$514.75|
+|Amount|6|
+|Cost|$617.70|
 
 # SP500
 ----
@@ -464,16 +464,16 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2637.98|
-|Diff|$19.02|
+|Total|$2610.88|
+|Diff|$46.12|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
 |Consumer|14.00%|$379.44|
-|Gold|9.00%|$260.10|
+|Gold|4.00%|$130.05|
 |China|8.00%|$214.96|
-|HealthCare|19.00%|$514.75|
-|SP500|13.00%|$368.27|
+|HealthCare|23.00%|$617.70|
+|SP500|14.00%|$368.27|
 |Utilities|19.00%|$514.96|
 |Bond|14.00%|$385.50|
