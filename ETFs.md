@@ -81,6 +81,12 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$142.33|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|0|
+|Cost|$0.00|
 ## IAU
 ----
 ### RATING
@@ -100,12 +106,6 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$14.45|
 
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|9|
-|Cost|$130.05|
 ## DGL
 ----
 ### RATING
@@ -464,16 +464,16 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2610.88|
-|Diff|$46.12|
+|Total|$2480.83|
+|Diff|$176.17|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|14.00%|$379.44|
-|Gold|4.00%|$130.05|
+|Consumer|15.00%|$379.44|
+|Gold|0.00%|$0.00|
 |China|8.00%|$214.96|
-|HealthCare|23.00%|$617.70|
+|HealthCare|24.00%|$617.70|
 |SP500|14.00%|$368.27|
-|Utilities|19.00%|$514.96|
-|Bond|14.00%|$385.50|
+|Utilities|20.00%|$514.96|
+|Bond|15.00%|$385.50|
