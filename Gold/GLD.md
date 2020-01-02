@@ -15,5 +15,5 @@
 |Expense Ratio|0.40%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$142.33|
+|Net Asset Value|$143.41|
 

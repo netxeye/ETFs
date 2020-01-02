@@ -5,15 +5,15 @@
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|AA|
-|MSCI ESG Quality Score|7.22 / 10|
-|Global Percentile Rank|88.84|
+|MSCI ESG Quality Score|7.26 / 10|
+|Global Percentile Rank|89.21|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.10%|
-|Price / Earnings Ratio|25.28|
-|Distribution Yield|2.85%|
-|Net Asset Value|$142.28|
+|Price / Earnings Ratio|24.31|
+|Distribution Yield|2.82%|
+|Net Asset Value|$143.01|
 
