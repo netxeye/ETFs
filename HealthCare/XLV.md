@@ -14,12 +14,12 @@
 |:----:|:---:|
 |Expense Ratio|0.13%|
 |Price / Earnings Ratio|28.53|
-|Distribution Yield|2.16%|
-|Net Asset Value|$101.93|
+|Distribution Yield|2.17%|
+|Net Asset Value|$101.63|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|6|
-|Cost|$611.58|
+|Cost|$609.78|
