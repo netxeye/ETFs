@@ -1,4 +1,4 @@
-## GLD
+## FLXC
 ----
 ### RATING
 
@@ -12,8 +12,8 @@
 
 |Data|Result|
 |:----:|:---:|
-|Expense Ratio|0.40%|
+|Expense Ratio||
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$146.35|
+|Net Asset Value||
 
