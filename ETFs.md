@@ -301,12 +301,6 @@ Mike's Investment
 |Distribution Yield|5.79%|
 |Net Asset Value|$30.92|
 
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|1|
-|Cost|$30.92|
 ## IVV
 ----
 ### RATING
@@ -330,8 +324,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$254.29|
+|Amount|2|
+|Cost|$508.58|
 ## SPY
 ----
 ### RATING
@@ -351,6 +345,12 @@ Mike's Investment
 |Distribution Yield|1.83%|
 |Net Asset Value|$253.38|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|1|
+|Cost|$253.38|
 
 # Utilities
 ----
@@ -441,12 +441,6 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$118.26|
 
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|1|
-|Cost|$118.26|
 ## TLT
 ----
 ### RATING
@@ -466,19 +460,13 @@ Mike's Investment
 |Distribution Yield||
 |Net Asset Value|$157.82|
 
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|2|
-|Cost|$315.64|
 
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2537.13|
-|Diff|$119.87|
+|Total|$2579.98|
+|Diff|$77.02|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
@@ -487,6 +475,6 @@ Mike's Investment
 |Gold|5.00%|$132.03|
 |China|8.00%|$215.12|
 |HealthCare|23.00%|$607.95|
-|SP500|11.00%|$285.21|
+|SP500|29.00%|$761.96|
 |Utilities|20.00%|$519.84|
-|Bond|17.00%|$433.90|
+|Bond|0.00%|$0.00|
