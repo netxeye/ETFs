@@ -37,8 +37,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|7|
-|Cost|$397.53|
+|Amount|6|
+|Cost|$340.74|
 ## VDC
 ----
 ### RATING
@@ -148,6 +148,12 @@ Mike's Investment
 |Distribution Yield|1.61%|
 |Net Asset Value|$58.87|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|4|
+|Cost|$235.48|
 ## ASHR
 ----
 ### RATING
@@ -167,6 +173,12 @@ Mike's Investment
 |Distribution Yield|1.08%|
 |Net Asset Value|$26.93|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|9|
+|Cost|$242.37|
 ## FXI
 ----
 ### RATING
@@ -276,8 +288,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|7|
-|Cost|$633.99|
+|Amount|1|
+|Cost|$90.57|
 
 # SP500
 ----
@@ -349,8 +361,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$265.19|
+|Amount|2|
+|Cost|$530.38|
 
 # Utilities
 ----
@@ -378,8 +390,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|9|
-|Cost|$496.26|
+|Amount|5|
+|Cost|$275.70|
 ## VPU
 ----
 ### RATING
@@ -465,16 +477,16 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2415.83|
-|Diff|$241.17|
+|Total|$2338.10|
+|Diff|$318.90|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|16.00%|$397.53|
+|Consumer|14.00%|$340.74|
 |Gold|5.00%|$126.00|
-|China|9.00%|$230.84|
-|HealthCare|26.00%|$633.99|
-|SP500|21.00%|$531.21|
-|Utilities|20.00%|$496.26|
+|China|30.00%|$708.69|
+|HealthCare|3.00%|$90.57|
+|SP500|34.00%|$796.40|
+|Utilities|11.00%|$275.70|
 |Bond|0.00%|$0.00|
