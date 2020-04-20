@@ -20,43 +20,43 @@ Mike's Investment
 
 |Rating|Result|
 |:----:|:---:|
-|MSCI ESG Rating||
-|MSCI ESG Quality Score||
-|Global Percentile Rank||
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|6.78 / 10|
+|Global Percentile Rank|83.16|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
-|Expense Ratio||
-|Price / Earnings Ratio||
-|Distribution Yield||
-|Net Asset Value||
+|Expense Ratio|0.13%|
+|Price / Earnings Ratio|28.21|
+|Distribution Yield|2.67%|
+|Net Asset Value|$59.17|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|0|
-|Cost|$0.00|
+|Amount|6|
+|Cost|$355.02|
 ## VDC
 ----
 ### RATING
 
 |Rating|Result|
 |:----:|:---:|
-|MSCI ESG Rating||
-|MSCI ESG Quality Score||
-|Global Percentile Rank||
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|6.56 / 10|
+|Global Percentile Rank|78.44|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
-|Expense Ratio||
-|Price / Earnings Ratio||
-|Distribution Yield||
-|Net Asset Value||
+|Expense Ratio|0.10%|
+|Price / Earnings Ratio|31.09|
+|Distribution Yield|2.51%|
+|Net Asset Value|$149.10|
 
 
 # Gold
@@ -477,16 +477,16 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$0.00|
-|Diff|$0.00|
+|Total|$2666.42|
+|Diff|$333.58|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|0.00%|$0.00|
-|Gold|147.69%|$0.00|
-|China|881.59%|$0.00|
-|HealthCare|96.62%|$0.00|
-|SP500|833.96%|$0.00|
-|Utilities|351.54%|$0.00|
+|Consumer|13.00%|$355.02|
+|Gold|5.00%|$147.69|
+|China|33.00%|$881.59|
+|HealthCare|3.00%|$96.62|
+|SP500|31.00%|$833.96|
+|Utilities|13.00%|$351.54|
 |Bond|0.00%|$0.00|
