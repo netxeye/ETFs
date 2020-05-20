@@ -37,8 +37,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|6|
-|Cost|$341.34|
+|Amount|7|
+|Cost|$398.23|
 ## VDC
 ----
 ### RATING
@@ -288,8 +288,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$99.60|
+|Amount|3|
+|Cost|$298.80|
 
 # SP500
 ----
@@ -361,8 +361,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|2|
-|Cost|$569.98|
+|Amount|1|
+|Cost|$284.99|
 
 # Utilities
 ----
@@ -390,8 +390,8 @@ Mike's Investment
 
 |Data|Result|
 |:----:|:---:|
-|Amount|6|
-|Cost|$333.36|
+|Amount|8|
+|Cost|$444.48|
 ## VPU
 ----
 ### RATING
@@ -477,16 +477,16 @@ Mike's Investment
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2593.12|
-|Diff|$406.88|
+|Total|$2675.34|
+|Diff|$324.66|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|13.00%|$341.34|
+|Consumer|14.00%|$398.23|
 |Gold|5.00%|$148.77|
-|China|31.00%|$814.15|
-|HealthCare|3.00%|$99.60|
-|SP500|33.00%|$855.90|
-|Utilities|12.00%|$333.36|
+|China|30.00%|$814.15|
+|HealthCare|11.00%|$298.80|
+|SP500|21.00%|$570.91|
+|Utilities|16.00%|$444.48|
 |Bond|0.00%|$0.00|

@@ -21,5 +21,5 @@
 
 |Data|Result|
 |:----:|:---:|
-|Amount|1|
-|Cost|$99.60|
+|Amount|3|
+|Cost|$298.80|
