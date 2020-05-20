@@ -21,24 +21,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|A|
-|MSCI ESG Quality Score|6.78 / 10|
-|Global Percentile Rank|83.16|
+|MSCI ESG Quality Score|7.01 / 10|
+|Global Percentile Rank|85.43|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.13%|
-|Price / Earnings Ratio|28.21|
-|Distribution Yield|2.67%|
-|Net Asset Value|$59.17|
+|Price / Earnings Ratio|24.94|
+|Distribution Yield|2.82%|
+|Net Asset Value|$56.89|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|6|
-|Cost|$355.02|
+|Cost|$341.34|
 ## VDC
 ----
 ### RATING
@@ -46,17 +46,17 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|A|
-|MSCI ESG Quality Score|6.56 / 10|
-|Global Percentile Rank|78.44|
+|MSCI ESG Quality Score|6.78 / 10|
+|Global Percentile Rank|81.26|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.10%|
-|Price / Earnings Ratio|31.09|
-|Distribution Yield|2.51%|
-|Net Asset Value|$149.10|
+|Price / Earnings Ratio|26.84|
+|Distribution Yield|2.64%|
+|Net Asset Value|$144.53|
 
 
 # Gold
@@ -79,7 +79,7 @@ Mike's Investment
 |Expense Ratio|0.40%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$161.64|
+|Net Asset Value|$162.81|
 
 ## IAU
 ----
@@ -98,14 +98,14 @@ Mike's Investment
 |Expense Ratio|0.25%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$16.41|
+|Net Asset Value|$16.53|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|9|
-|Cost|$147.69|
+|Cost|$148.77|
 ## DGL
 ----
 ### RATING
@@ -123,7 +123,7 @@ Mike's Investment
 |Expense Ratio|0.78%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$51.02|
+|Net Asset Value|$51.56|
 
 
 # China
@@ -136,24 +136,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|BB|
-|MSCI ESG Quality Score|3.50 / 10|
-|Global Percentile Rank|13.79|
+|MSCI ESG Quality Score|3.56 / 10|
+|Global Percentile Rank|14.36|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.59%|
-|Price / Earnings Ratio|14.15|
-|Distribution Yield|1.56%|
-|Net Asset Value|$59.43|
+|Price / Earnings Ratio|11.82|
+|Distribution Yield|1.53%|
+|Net Asset Value|$60.75|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|5|
-|Cost|$297.15|
+|Amount|4|
+|Cost|$243.00|
 ## ASHR
 ----
 ### RATING
@@ -161,24 +161,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|B|
-|MSCI ESG Quality Score|2.20 / 10|
-|Global Percentile Rank|4.35|
+|MSCI ESG Quality Score|2.11 / 10|
+|Global Percentile Rank|3.94|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.65%|
-|Price / Earnings Ratio|12.74|
-|Distribution Yield|1.08%|
-|Net Asset Value|$26.89|
+|Price / Earnings Ratio|11.29|
+|Distribution Yield|1.05%|
+|Net Asset Value|$27.66|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|11|
-|Cost|$295.79|
+|Amount|10|
+|Cost|$276.60|
 ## FXI
 ----
 ### RATING
@@ -186,17 +186,17 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|BB|
-|MSCI ESG Quality Score|3.80 / 10|
-|Global Percentile Rank|17.12|
+|MSCI ESG Quality Score|3.79 / 10|
+|Global Percentile Rank|16.76|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.74%|
-|Price / Earnings Ratio|8.13|
-|Distribution Yield|3.09%|
-|Net Asset Value|$38.14|
+|Price / Earnings Ratio|7.53|
+|Distribution Yield|3.10%|
+|Net Asset Value|$38.55|
 
 ## KWEB
 ----
@@ -204,18 +204,18 @@ Mike's Investment
 
 |Rating|Result|
 |:----:|:---:|
-|MSCI ESG Rating|B|
-|MSCI ESG Quality Score|2.84 / 10|
-|Global Percentile Rank|7.72|
+|MSCI ESG Rating|BB|
+|MSCI ESG Quality Score|3.37 / 10|
+|Global Percentile Rank|12.38|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.76%|
-|Price / Earnings Ratio|89.76|
-|Distribution Yield|0.09%|
-|Net Asset Value|$47.59|
+|Price / Earnings Ratio|37.43|
+|Distribution Yield|0.08%|
+|Net Asset Value|$50.33|
 
 ## AIA
 ----
@@ -223,25 +223,25 @@ Mike's Investment
 
 |Rating|Result|
 |:----:|:---:|
-|MSCI ESG Rating|BBB|
-|MSCI ESG Quality Score|5.63 / 10|
-|Global Percentile Rank|52.78|
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|5.72 / 10|
+|Global Percentile Rank|52.40|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.50%|
-|Price / Earnings Ratio|13.49|
-|Distribution Yield|2.54%|
-|Net Asset Value|$57.73|
+|Price / Earnings Ratio|11.79|
+|Distribution Yield|2.51%|
+|Net Asset Value|$58.91|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|5|
-|Cost|$288.65|
+|Cost|$294.55|
 
 # HealthCare
 ----
@@ -253,17 +253,17 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|BBB|
-|MSCI ESG Quality Score|5.51 / 10|
-|Global Percentile Rank|49.78|
+|MSCI ESG Quality Score|5.41 / 10|
+|Global Percentile Rank|45.46|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.10%|
-|Price / Earnings Ratio|32.73|
-|Distribution Yield|1.62%|
-|Net Asset Value|$180.89|
+|Price / Earnings Ratio|28.69|
+|Distribution Yield|1.56%|
+|Net Asset Value|$189.18|
 
 ## XLV
 ----
@@ -272,24 +272,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|A|
-|MSCI ESG Quality Score|5.94 / 10|
-|Global Percentile Rank|62.16|
+|MSCI ESG Quality Score|5.84 / 10|
+|Global Percentile Rank|55.40|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.13%|
-|Price / Earnings Ratio|24.41|
-|Distribution Yield|2.31%|
-|Net Asset Value|$96.62|
+|Price / Earnings Ratio|21.55|
+|Distribution Yield|2.26%|
+|Net Asset Value|$99.60|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|1|
-|Cost|$96.62|
+|Cost|$99.60|
 
 # SP500
 ----
@@ -300,18 +300,18 @@ Mike's Investment
 
 |Rating|Result|
 |:----:|:---:|
-|MSCI ESG Rating|A|
-|MSCI ESG Quality Score|6.25 / 10|
-|Global Percentile Rank|71.58|
+|MSCI ESG Rating|BBB|
+|MSCI ESG Quality Score|5.28 / 10|
+|Global Percentile Rank|42.79|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.30%|
-|Price / Earnings Ratio|16.12|
-|Distribution Yield|5.57%|
-|Net Asset Value|$31.55|
+|Price / Earnings Ratio|11.52|
+|Distribution Yield|6.02%|
+|Net Asset Value|$30.70|
 
 ## IVV
 ----
@@ -320,24 +320,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|A|
-|MSCI ESG Quality Score|5.89 / 10|
-|Global Percentile Rank|60.73|
+|MSCI ESG Quality Score|6.36 / 10|
+|Global Percentile Rank|70.82|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.04%|
-|Price / Earnings Ratio|22.36|
-|Distribution Yield|2.40%|
-|Net Asset Value|$278.58|
+|Price / Earnings Ratio|17.86|
+|Distribution Yield|2.39%|
+|Net Asset Value|$285.92|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|1|
-|Cost|$278.58|
+|Cost|$285.92|
 ## SPY
 ----
 ### RATING
@@ -345,24 +345,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|A|
-|MSCI ESG Quality Score|5.89 / 10|
-|Global Percentile Rank|60.75|
+|MSCI ESG Quality Score|6.36 / 10|
+|Global Percentile Rank|70.88|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.09%|
-|Price / Earnings Ratio|22.34|
-|Distribution Yield|2.04%|
-|Net Asset Value|$277.69|
+|Price / Earnings Ratio|17.85|
+|Distribution Yield|2.03%|
+|Net Asset Value|$284.99|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|2|
-|Cost|$555.38|
+|Cost|$569.98|
 
 # Utilities
 ----
@@ -374,24 +374,24 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|AA|
-|MSCI ESG Quality Score|7.88 / 10|
-|Global Percentile Rank|96.17|
+|MSCI ESG Quality Score|7.37 / 10|
+|Global Percentile Rank|90.47|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.13%|
-|Price / Earnings Ratio|20.94|
-|Distribution Yield|3.22%|
-|Net Asset Value|$58.59|
+|Price / Earnings Ratio|16.68|
+|Distribution Yield|3.51%|
+|Net Asset Value|$55.56|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|6|
-|Cost|$351.54|
+|Cost|$333.36|
 ## VPU
 ----
 ### RATING
@@ -399,17 +399,17 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|AA|
-|MSCI ESG Quality Score|7.66 / 10|
-|Global Percentile Rank|94.40|
+|MSCI ESG Quality Score|7.17 / 10|
+|Global Percentile Rank|87.80|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.10%|
-|Price / Earnings Ratio|22.09|
-|Distribution Yield|2.98%|
-|Net Asset Value|$128.41|
+|Price / Earnings Ratio|17.60|
+|Distribution Yield|3.26%|
+|Net Asset Value|$121.69|
 
 ## FXU
 ----
@@ -418,17 +418,17 @@ Mike's Investment
 |Rating|Result|
 |:----:|:---:|
 |MSCI ESG Rating|BBB|
-|MSCI ESG Quality Score|5.05 / 10|
-|Global Percentile Rank|40.06|
+|MSCI ESG Quality Score|4.85 / 10|
+|Global Percentile Rank|35.06|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
 |Expense Ratio|0.63%|
-|Price / Earnings Ratio|17.14|
-|Distribution Yield|2.62%|
-|Net Asset Value|$26.00|
+|Price / Earnings Ratio|12.13|
+|Distribution Yield|2.80%|
+|Net Asset Value|$25.33|
 
 
 # Bond
@@ -442,7 +442,7 @@ Mike's Investment
 |:----:|:---:|
 |MSCI ESG Rating|A|
 |MSCI ESG Quality Score|6.58 / 10|
-|Global Percentile Rank|79.72|
+|Global Percentile Rank|77.13|
 
 ### DATA
 
@@ -451,7 +451,7 @@ Mike's Investment
 |Expense Ratio|0.15%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$121.87|
+|Net Asset Value|$122.08|
 
 ## TLT
 ----
@@ -461,7 +461,7 @@ Mike's Investment
 |:----:|:---:|
 |MSCI ESG Rating|A|
 |MSCI ESG Quality Score|6.58 / 10|
-|Global Percentile Rank|79.72|
+|Global Percentile Rank|77.13|
 
 ### DATA
 
@@ -470,23 +470,23 @@ Mike's Investment
 |Expense Ratio|0.15%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$168.13|
+|Net Asset Value|$167.41|
 
 
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2666.42|
-|Diff|$333.58|
+|Total|$2593.12|
+|Diff|$406.88|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|13.00%|$355.02|
-|Gold|5.00%|$147.69|
-|China|33.00%|$881.59|
-|HealthCare|3.00%|$96.62|
-|SP500|31.00%|$833.96|
-|Utilities|13.00%|$351.54|
+|Consumer|13.00%|$341.34|
+|Gold|5.00%|$148.77|
+|China|31.00%|$814.15|
+|HealthCare|3.00%|$99.60|
+|SP500|33.00%|$855.90|
+|Utilities|12.00%|$333.36|
 |Bond|0.00%|$0.00|
