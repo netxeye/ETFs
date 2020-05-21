@@ -1,4 +1,4 @@
-## IVV
+## VOO
 ----
 ### RATING
 
@@ -6,20 +6,20 @@
 |:----:|:---:|
 |MSCI ESG Rating|A|
 |MSCI ESG Quality Score|6.36 / 10|
-|Global Percentile Rank|70.82|
+|Global Percentile Rank|70.88|
 
 ### DATA
 
 |Data|Result|
 |:----:|:---:|
-|Expense Ratio|0.04%|
-|Price / Earnings Ratio|17.86|
-|Distribution Yield|2.33%|
-|Net Asset Value|$298.01|
+|Expense Ratio|0.03%|
+|Price / Earnings Ratio|17.83|
+|Distribution Yield|1.97%|
+|Net Asset Value|$272.98|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|1|
-|Cost|$298.01|
+|Cost|$272.98|

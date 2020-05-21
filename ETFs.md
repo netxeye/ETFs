@@ -30,15 +30,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.13%|
 |Price / Earnings Ratio|24.94|
-|Distribution Yield|2.82%|
-|Net Asset Value|$56.89|
+|Distribution Yield|2.81%|
+|Net Asset Value|$57.89|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|7|
-|Cost|$398.23|
+|Amount|5|
+|Cost|$289.45|
 ## VDC
 ----
 ### RATING
@@ -55,8 +55,8 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.10%|
 |Price / Earnings Ratio|26.84|
-|Distribution Yield|2.64%|
-|Net Asset Value|$144.53|
+|Distribution Yield|2.61%|
+|Net Asset Value|$147.32|
 
 
 # Gold
@@ -79,7 +79,7 @@ Mike's Investment
 |Expense Ratio|0.40%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$162.81|
+|Net Asset Value|$163.40|
 
 ## IAU
 ----
@@ -98,14 +98,14 @@ Mike's Investment
 |Expense Ratio|0.25%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$16.53|
+|Net Asset Value|$16.59|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|9|
-|Cost|$148.77|
+|Cost|$149.31|
 ## DGL
 ----
 ### RATING
@@ -123,7 +123,7 @@ Mike's Investment
 |Expense Ratio|0.78%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$51.56|
+|Net Asset Value|$51.90|
 
 
 # China
@@ -145,15 +145,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.59%|
 |Price / Earnings Ratio|11.82|
-|Distribution Yield|1.53%|
-|Net Asset Value|$60.75|
+|Distribution Yield|1.48%|
+|Net Asset Value|$62.79|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|4|
-|Cost|$243.00|
+|Cost|$251.16|
 ## ASHR
 ----
 ### RATING
@@ -170,15 +170,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.65%|
 |Price / Earnings Ratio|11.29|
-|Distribution Yield|1.05%|
-|Net Asset Value|$27.66|
+|Distribution Yield|1.04%|
+|Net Asset Value|$27.76|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|10|
-|Cost|$276.60|
+|Cost|$277.60|
 ## FXI
 ----
 ### RATING
@@ -195,8 +195,8 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.74%|
 |Price / Earnings Ratio|7.53|
-|Distribution Yield|3.10%|
-|Net Asset Value|$38.55|
+|Distribution Yield|3.03%|
+|Net Asset Value|$39.55|
 
 ## KWEB
 ----
@@ -215,7 +215,7 @@ Mike's Investment
 |Expense Ratio|0.76%|
 |Price / Earnings Ratio|37.43|
 |Distribution Yield|0.08%|
-|Net Asset Value|$50.33|
+|Net Asset Value|$52.78|
 
 ## AIA
 ----
@@ -233,15 +233,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.50%|
 |Price / Earnings Ratio|11.79|
-|Distribution Yield|2.51%|
-|Net Asset Value|$58.91|
+|Distribution Yield|2.45%|
+|Net Asset Value|$60.55|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|5|
-|Cost|$294.55|
+|Amount|4|
+|Cost|$242.20|
 
 # HealthCare
 ----
@@ -262,8 +262,8 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.10%|
 |Price / Earnings Ratio|28.69|
-|Distribution Yield|1.56%|
-|Net Asset Value|$189.18|
+|Distribution Yield|1.55%|
+|Net Asset Value|$191.70|
 
 ## XLV
 ----
@@ -281,15 +281,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.13%|
 |Price / Earnings Ratio|21.55|
-|Distribution Yield|2.26%|
-|Net Asset Value|$99.60|
+|Distribution Yield|2.22%|
+|Net Asset Value|$100.06|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|3|
-|Cost|$298.80|
+|Amount|2|
+|Cost|$200.12|
 
 # SP500
 ----
@@ -310,9 +310,40 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.30%|
 |Price / Earnings Ratio|11.52|
-|Distribution Yield|6.02%|
-|Net Asset Value|$30.70|
+|Distribution Yield|0.49%|
+|Net Asset Value|$31.46|
 
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|14|
+|Cost|$440.44|
+## VOO
+----
+### RATING
+
+|Rating|Result|
+|:----:|:---:|
+|MSCI ESG Rating|A|
+|MSCI ESG Quality Score|6.36 / 10|
+|Global Percentile Rank|70.88|
+
+### DATA
+
+|Data|Result|
+|:----:|:---:|
+|Expense Ratio|0.03%|
+|Price / Earnings Ratio|17.83|
+|Distribution Yield|1.97%|
+|Net Asset Value|$272.98|
+
+### COST
+
+|Data|Result|
+|:----:|:---:|
+|Amount|1|
+|Cost|$272.98|
 ## IVV
 ----
 ### RATING
@@ -329,15 +360,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.04%|
 |Price / Earnings Ratio|17.86|
-|Distribution Yield|2.39%|
-|Net Asset Value|$285.92|
+|Distribution Yield|2.33%|
+|Net Asset Value|$298.01|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
 |Amount|1|
-|Cost|$285.92|
+|Cost|$298.01|
 ## SPY
 ----
 ### RATING
@@ -354,15 +385,9 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.09%|
 |Price / Earnings Ratio|17.85|
-|Distribution Yield|2.03%|
-|Net Asset Value|$284.99|
+|Distribution Yield|1.98%|
+|Net Asset Value|$297.01|
 
-### COST
-
-|Data|Result|
-|:----:|:---:|
-|Amount|1|
-|Cost|$284.99|
 
 # Utilities
 ----
@@ -383,15 +408,15 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.13%|
 |Price / Earnings Ratio|16.68|
-|Distribution Yield|3.51%|
-|Net Asset Value|$55.56|
+|Distribution Yield|3.48%|
+|Net Asset Value|$56.43|
 
 ### COST
 
 |Data|Result|
 |:----:|:---:|
-|Amount|8|
-|Cost|$444.48|
+|Amount|5|
+|Cost|$282.15|
 ## VPU
 ----
 ### RATING
@@ -408,8 +433,8 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.10%|
 |Price / Earnings Ratio|17.60|
-|Distribution Yield|3.26%|
-|Net Asset Value|$121.69|
+|Distribution Yield|3.22%|
+|Net Asset Value|$124.14|
 
 ## FXU
 ----
@@ -427,8 +452,8 @@ Mike's Investment
 |:----:|:---:|
 |Expense Ratio|0.63%|
 |Price / Earnings Ratio|12.13|
-|Distribution Yield|2.80%|
-|Net Asset Value|$25.33|
+|Distribution Yield|2.74%|
+|Net Asset Value|$26.18|
 
 
 # Bond
@@ -451,7 +476,7 @@ Mike's Investment
 |Expense Ratio|0.15%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$122.08|
+|Net Asset Value|$121.34|
 
 ## TLT
 ----
@@ -470,23 +495,23 @@ Mike's Investment
 |Expense Ratio|0.15%|
 |Price / Earnings Ratio||
 |Distribution Yield||
-|Net Asset Value|$167.41|
+|Net Asset Value|$163.09|
 
 
 ## Sumary
 
 |Name|Value|
 |:----:|:---:|
-|Total|$2675.34|
-|Diff|$324.66|
+|Total|$2703.42|
+|Diff|$296.58|
 ## Percentage
 
 |ETF|Percentage|Total Cost|
 |:---:|:---:|:---:|
-|Consumer|14.00%|$398.23|
-|Gold|5.00%|$148.77|
-|China|30.00%|$814.15|
-|HealthCare|11.00%|$298.80|
-|SP500|21.00%|$570.91|
-|Utilities|16.00%|$444.48|
+|Consumer|10.00%|$289.45|
+|Gold|5.00%|$149.31|
+|China|28.00%|$770.96|
+|HealthCare|7.00%|$200.12|
+|SP500|37.00%|$1011.43|
+|Utilities|10.00%|$282.15|
 |Bond|0.00%|$0.00|
